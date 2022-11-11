@@ -1,0 +1,9 @@
+{
+  "name": "iniciando_com_nodejs",
+  "version": "1.0.0",
+  "description": "primeiro projeto 2022 codedrops",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dáilla",
+  "license": "ISC"
+}
